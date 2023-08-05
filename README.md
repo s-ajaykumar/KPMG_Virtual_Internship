@@ -11,6 +11,18 @@
 | Share    | Sharing the insights to the client in the form of visualizations. |
 | Act      | Making recommendations for effective data driven decisions. |
 
+## Ask
+
+- I try to understand the overall context of business requirements.
+- Used SMART strategy.
+
+- S - Specific
+- M - Measurable
+- A - Action oriented
+- R - Relevant
+- T - Time bound
+
+
 
 
 
