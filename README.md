@@ -111,7 +111,7 @@
 ## Conclusion
 - After analyzing the data, I have shortlisted the 1000 new customers based on the wealth_segment, age_category, state, job_industry and segregated them into 5 priorities.
 
-a![image](https://github.com/s-ajaykumar/KPMG_Virtual_Internship/assets/137597993/314687e5-86c4-4cc5-8987-4f268bd5b3a2)
+a![Priority1](Analyze/Img/Priority1.png)
 
 
 
