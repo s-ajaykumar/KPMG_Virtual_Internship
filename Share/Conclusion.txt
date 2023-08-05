@@ -1,0 +1,1 @@
+After analyzing the data, I have shortlisted the 1000 new customers to 39 customers based on the wealth_segment, age_category, state, job_industry and segregated them into 5 priorities.
