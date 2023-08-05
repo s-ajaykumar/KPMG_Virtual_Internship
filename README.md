@@ -1,4 +1,4 @@
-# KPMG_Virtual_Internship
+![image](https://github.com/s-ajaykumar/KPMG_Virtual_Internship/assets/137597993/6eb9118e-4bce-42a0-b35e-7bc5536e47e3)# KPMG_Virtual_Internship
 ### Goal:
 	To recommend which of these 1000 new customers should be targeted to drive the most value for the organization.
 ## Scope
@@ -107,6 +107,10 @@
   - state : purchase_value
   - age _category : purchase_value
   - job_industry :  purchase_value
+
+## Conclusion
+- After analyzing the data, I have shortlisted the 1000 new customers based on the wealth_segment, age_category, state, job_industry and segregated them into 5 priorities.
+
 
 
 
