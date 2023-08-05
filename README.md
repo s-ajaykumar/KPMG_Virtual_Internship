@@ -94,12 +94,12 @@
 
 ## Analyze
 - Analyzed using Excel.
-- **Operations:**
- - Organize
- - Filter
- - Sort
- - Getting feedback from others
- - Calculations (Pivot table)
+- **Operations performed:**
+  - Organize
+  - Filter
+  - Sort
+  - Getting feedback from others
+  - Calculations (Pivot table)
 
 
 
