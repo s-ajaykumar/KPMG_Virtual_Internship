@@ -39,6 +39,20 @@
 - Data security
 - Data organization and convention
 
+## Process
+
+### My checklist:
+
+- Change the entire columns into uppercase
+- Duplicates
+- Whitespace
+- Empty cells
+- Standardize the column formats
+- Outliers
+- Unmerge
+- Merge
+- Cross field validation
+- Change units of measurement
 
 
 
