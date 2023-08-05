@@ -101,6 +101,14 @@
   - Getting feedback from others
   - Calculations (Pivot table)
 
+- I have analyzed the following variables to derive insights.
+
+  - wealth_segment : purchase_value
+  - state : purchase_value
+  - age _category : purchase_value
+  - job_industry :  purchase_value
+
+
 
 
 
