@@ -92,6 +92,16 @@
 #### Categorization:
 - Categorized the age column  into 10 categories like 20 - 29, 30 - 39 up to 90 - 99.
 
+## Analyze
+- Analyze using Excel.
+- #### Operations:
+ - Organize
+ - Filter
+ - Sort
+ - Getting feedback from others
+ - Calculations (Pivot table)
+
+
 
 
 
