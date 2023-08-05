@@ -24,9 +24,9 @@
 
 ### Qns:
 
--To determine who provides the most value, we need to know each new customer’s value.
+- To determine who provides the most value, we need to know each new customer’s value.
  But we don't have any prior transactions with the new customers.
- So, how can we determine which customers to target?
+- So, how can we determine which customers to target?
 ### Soln:
 - The common data between the old customers database and the new customers database are age, past_3_years_bike_related_purchases, job_title, job_industry_category, wealth_segment,  owns_car, tenure, postcode, country, state.
 - So if we find which segment customers in the old customers list provides more value then based on that we can achieve our goal.
