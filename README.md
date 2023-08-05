@@ -54,6 +54,48 @@
 - Cross field validation
 - Change units of measurement
 
+### Change Log
+#### Transactions table:
+
+- Removed the rows where there are  empty cells in the  online_order column.
+- Removed the rows where there are  empty cells in the brand column.
+- 915 duplicate values found and removed.
+- Splitted transaction_date column into transaction _month and transaction_date columns.
+
+#### New Customer List table
+- New customer list table:
+- Removed the rows where there are empty cells in the DOB column.
+- Removed the rows where there are empty cells in the job_title column.
+- Removed the rows where there are n/a values in the job_industry_category column.
+- The word Argiculture was replaced with Agriculture in the job_industry_category_column.
+- The values in the postcode column are in the form of text so converted them into number format.
+- The values in the property value column are in the form of text so converted them into number format.
+- Merged the first name and second name column into a single column name.
+- The values in the column past_3_years_bike_related_purchases were in text format therefore converted them into number format.
+- Added a column age using datedif function.
+
+#### Customer Demographic table
+- Merged the first_name and second_name column into single column name.
+- Replaced M with male and F with female in the column gender.
+- The column DOB contained a wrong value 1843-12-21 therefore changed into 1943-12-21
+- Removed the rows where there are empty cells in the job_title column.
+- Removed the rows where there are n/a values in the job_industry_category column.
+- The word Argiculture was replaced with Agriculture in the job_industry_category_column.
+- Removed the rows where there are empty cells in the tenure column.
+
+#### Customer address table:
+- Replaced NSW with New South Wales and VIC with Victoria in the state column.
+
+#### Merged tables:
+- Merged customer demographic table, customer address table, transactions table into a single table called Old_Customer table
+
+#### Categorization:
+- Categorized the age column  into 10 categories like 20 - 29, 30 - 39 up to 90 - 99.
+
+
+
+
+
 
 
 
