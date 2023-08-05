@@ -11,7 +11,7 @@
 | Share    | Sharing the insights to the client in the form of visualizations. |
 | Act      | Making recommendations for effective data driven decisions. |
 
-<p align=center><b></b>Ask</b></p>
+## Ask
 
 - I try to understand the overall context of business requirements.
 - Used SMART strategy.
