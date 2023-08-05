@@ -16,11 +16,11 @@
 - I try to understand the overall context of business requirements.
 - Used SMART strategy.
 
--- S - Specific
--- M - Measurable
--- A - Action oriented
--- R - Relevant
--- T - Time bound
+	- S - Specific
+	- M - Measurable
+	- A - Action oriented
+	- R - Relevant
+	- T - Time bound
 
 
 
